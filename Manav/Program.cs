@@ -102,3 +102,4 @@ else
 }
 
 
+// Switch-case yapısı cok koşullarda daha okunabilir if-else yapısına göre daha anlaşılabilir.
